@@ -110,7 +110,7 @@ Here's a simple example to get up and running with VUI. It's just a "Hello World
 
     .. code-block:: html
 
-      <htm lang="en">
+      <html lang="en">
         <head>
           ...       
           <link href="myapp.css" rel="stylesheet">
